@@ -22,3 +22,7 @@ figure  {
   font-size: 80%;
 }
 
+p #featured-property {
+  width: 800px;
+  text-align: center;
+}
