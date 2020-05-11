@@ -3,18 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+
 header {
   text-align: center
 }
-figure  {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  
-}
+
 nav ~ a {
   text-align: center;
   padding-left: 10px;
   padding-right: 10px;
   background-color: gray;
 }
+
+figure  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
