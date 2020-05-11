@@ -15,14 +15,24 @@ nav a {
   background-color: gray;
 }
 
-figure  {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+#featured-property {
+  text-align: center;
+}
+#featured-property figcaption {
   font-size: 80%;
 }
-
-p #featured-property {
+#featured-property p {
   width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#details {
+  display: block;
+}
+#details div {
+  float: left;
+  width: 25%;
   text-align: center;
+  background-color: lightcyan;
 }
